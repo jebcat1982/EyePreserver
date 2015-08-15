@@ -1,4 +1,4 @@
-package ru.abusalimov.xposed.lightsensorfilter;
+package pl.xeyepreserver;
 
 /**
  * Exponential Moving Average filter.

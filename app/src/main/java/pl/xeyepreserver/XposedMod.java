@@ -1,4 +1,4 @@
-package ru.abusalimov.xposed.lightsensorfilter;
+package pl.xeyepreserver;
 
 import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.XC_MethodHook;
